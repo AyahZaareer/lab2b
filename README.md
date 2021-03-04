@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AyahZaareer/lab2b/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# How you can benefit from a growth mindset
+## What is a growth mindset?
+### A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning
+## there are many difference between growth and fixed mindset:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Growth mindset
 
-### Markdown
+1. Embraces challenges
+2. persist the obstacle
+3. more effort “no pain, no gain
+4. learns from criticism
+5. inspired by success of others
+6. will achieve more & higher goals
+7. Fixed mindset
+8. Stable mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Avoids challenges
+1. Loses focus in obstacle
+2. views effort as fruitless
+3. ignores criticism
+4. seeing success of others as a threat
+5. fails to reach full potential
 
-```markdown
-Syntax highlighted code block
+![image](https://storage.googleapis.com/proudcity/elgl/uploads/2020/08/growth-mindset-brain.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AyahZaareer/lab2b/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| read more   | [clik her](https://ayahzaareer.github.io/markdown/) |
+|-------------|-----------------------------------------------------|
